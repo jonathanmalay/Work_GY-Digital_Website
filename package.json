@@ -1,0 +1,28 @@
+{
+  "name": "company-website",
+  "version": "1.0.0",
+  "description": "A simple website for gy-digital",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.8",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanmalay/Work_GY-Digital_Website.git"
+  },
+  "author": "Jonathan Malai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanmalay/Work_GY-Digital_Website/issues"
+  },
+  "homepage": "https://github.com/jonathanmalay/Work_GY-Digital_Website#readme"
+}
