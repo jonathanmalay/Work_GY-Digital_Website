@@ -39,11 +39,11 @@
 	padding: 0;
 }
 :root {
-	--primary-color: #f1c83e;
-	--hover-color: #f5d673e8;
-	--dark-color: #ffc505;
-	--darkbtn-color: #ffc400;
-	--light-color: #f5d87a;
+	--primary-color: #28a6e6;
+	--hover-color: #81d5ff9f;
+	--dark-color: #096b9c;
+	--darkbtn-color: #0b6795;
+	--light-color: #4fb7eb;
 }
 
 body {
