@@ -18,6 +18,13 @@ app.get('/', (req, res) => res.send('[+]API Running'));
 
 //Define Routes
 
+
+// For send the terms file.
+app.get('/gy-t-and-c.pdf',  (req, res) => {
+    res.sendFile(__dirname + '\\static\\gy-t-and-c.pdf');
+
+})
+
 //the make contact route
 app.use(
 	'/api/makecontact',
